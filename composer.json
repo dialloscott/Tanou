@@ -1,0 +1,12 @@
+{
+    "name": "mvc/dev",
+    "authors": [
+        {
+            "name": "mamadou lamine diallo",
+            "email": "mlamine860@gmail.com"
+        }
+    ],
+    "require": {
+        "fzaninotto/faker": "^1.6"
+    }
+}
